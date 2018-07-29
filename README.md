@@ -1,5 +1,5 @@
 # Project-Euler
-Solutions in Python to the Project Euler problems
+Solutions in Haskell and Python to the Project Euler problems
 
 To use them, download the project and open Terminal.
 
